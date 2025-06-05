@@ -1,1 +1,5 @@
-As of this time the repository contains only two files. Both of them are culturally and historically significant, and therefore should be released as-is and remain unmodified. At this time there are no plans for this repository to take outside commits.
+The repository contains only two noteworthy files.
+
+Both of them are culturally and historically significant, and therefore should be released as-is and remain unmodified.
+
+At this time there are no plans for this repository to take outside commits.
